@@ -1,1 +1,1 @@
-# Face-Detection-Recognition-Using-OpenCV-Python
+This repository presents a sophisticated face detection and recognition system implemented in Python using the OpenCV library. The application seamlessly integrates the Haar Cascade Classifier for efficient face detection and a custom Local Binary Patterns Histograms (LBPH) Face Recognizer for accurate face recognition.
